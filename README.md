@@ -1,4 +1,4 @@
-[https://chatsfriends.com](https://chatsfriends.com) es mas que una empresa que trata de ofrecer todo tipo de salas a sus usuarios, desde ya, tambien ofrece la posibilidad de instalar un chat en paginas de empresa.
+El <a href="https://chatsfriends.com">chat de chatsfriends</a> es mas que una empresa que trata de ofrecer todo tipo de salas a sus usuarios, desde ya, tambien ofrece la posibilidad de instalar un chat en paginas de empresa.
 
 ## Que es chatsfriends
 Es un por de chat en tiempo real que en sus inicios estaba desarrollado en puro java, pasando por flash y ahora en un increíble html5 que da la posibilidad de poder chatear en cualquier lado sin necesidad de instalar complementos en tu navegador o móvil.
